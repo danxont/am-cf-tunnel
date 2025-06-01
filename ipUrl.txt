@@ -4,4 +4,5 @@ https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
 https://raw.githubusercontent.com/danxont/am-cf-tunnel/refs/heads/main/AS-4.csv
 https://raw.githubusercontent.com/danxont/am-cf-tunnel/refs/heads/main/US-4.csv
-
+https://raw.githubusercontent.com/danxont/am-cf-tunnel/refs/heads/main/ipdomain.txt
+https://raw.githubusercontent.com/danxont/am-cf-tunnel/refs/heads/main/ipv4.txt
